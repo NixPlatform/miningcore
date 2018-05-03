@@ -63,6 +63,7 @@ namespace MiningCore.Configuration
         CANN, // CannabisCoin
         RVN,  // Ravencoin
         PGN,  // Pigeoncoin 
+        NIX, // NIX Platform
     }
 
     public class CoinConfig

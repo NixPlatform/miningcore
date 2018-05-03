@@ -125,6 +125,7 @@ namespace MiningCore.Blockchain.Bitcoin
             // Lyra2Rev2 - Variant A
             { CoinType.MONA, lyra2Rev2CoinVariantA },
             { CoinType.VTC, lyra2Rev2CoinVariantA },
+            { CoinType.NIX, lyra2Rev2CoinVariantA },
 
             // Lyra2Rev2 - Variant B
             { CoinType.STAK, lyra2Rev2CoinVariantB },
